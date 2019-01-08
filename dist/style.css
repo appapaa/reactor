@@ -1,0 +1,9 @@
+body > div {
+  width: 50%;
+  height: 80px;
+  line-height: 80px;
+  border: 1px solid gray; }
+
+.app-loaing {
+  background: white; }
+
